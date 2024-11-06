@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @kusagaki2357
 - I'm what I want you to want.
 
 <!---
